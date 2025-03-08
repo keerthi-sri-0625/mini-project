@@ -14,4 +14,4 @@ import { TodoComponent } from './todo/todo.component'; // Import your TodoCompon
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}
